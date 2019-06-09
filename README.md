@@ -1,2 +1,2 @@
 # QLib
-A personal C and Java lib for personal usage.
+A personal C/C++ and Java lib for personal usage.
